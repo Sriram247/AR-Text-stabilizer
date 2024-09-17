@@ -6,7 +6,6 @@
     tools:context=".MainActivity">
 
 
-    <!-- AR Fragment for handling ARCore interactions -->
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/ux_fragment"
         android:name="com.google.ar.sceneform.ux.ArFragment"

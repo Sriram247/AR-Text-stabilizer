@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             placePdfInAR(anchor)
         }
     }
-git 
+
     private fun placePdfInAR(anchor: Anchor) {
         // Create an AnchorNode to attach the content to the AR scene
         val anchorNode = AnchorNode(anchor)
