@@ -66,4 +66,10 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    implementation("com.google.ar:core:1.23.0")
+    implementation("com.google.ar.sceneform.ux:sceneform-ux:1.15.0")
+
+    implementation("com.github.barteksc:pdfium-android:1.9.0")
+
 }
