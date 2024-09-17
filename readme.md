@@ -19,7 +19,7 @@ This Android app, developed in **Kotlin**, uses **Google ARCore** technology to 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/arcore-text-stabilizer.git
+    git clone https://github.com/Sriram247/arcore-text-stabilizer.git
     ```
 2. Open the project in **Android Studio**.
 3. Sync the Gradle files and resolve any dependencies.
